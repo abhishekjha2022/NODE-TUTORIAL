@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "axios": "^0.26.1"
+  },
+  "name": "moduleexample",
+  "version": "1.0.0",
+  "main": "https.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node https.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
